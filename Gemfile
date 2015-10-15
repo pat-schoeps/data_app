@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'versionist'
 
 gem 'active_model_serializers'
-
+gem 'twitter'
 
 
 group :doc do
